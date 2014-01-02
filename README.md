@@ -7,7 +7,7 @@ This project is a 3D photo generator written in Delphi.
 ## Technical Details
  - Based on Anaglyph 3D. 
  - Two photos of certain objects taken from different angles are used as the input, filtered certain colors, and then overlaid over each other. 
- -  Uses multithreading to improves efficiency.
+ -  Uses multithreading to improve efficiency.
 
 ## Future Plans
  - Cross-platform compatibility
