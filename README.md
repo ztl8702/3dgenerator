@@ -16,3 +16,4 @@ This project is a 3D photo generator written in Delphi.
 ## Author
 
 **Tianlei Zheng**
+ - <tianleizheng@126.com>
