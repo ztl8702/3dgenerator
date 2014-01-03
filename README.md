@@ -17,3 +17,7 @@ This project is a 3D photo generator written in Delphi.
 
 **Tianlei Zheng**
  - <tianleizheng@126.com>
+ 
+## My Other Projects
+ - [Polynomial Calculator](https://github.com/ztl8702/polycalc)
+ 
