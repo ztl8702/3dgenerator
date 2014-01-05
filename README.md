@@ -9,6 +9,18 @@ This project is a 3D photo generator written in Delphi.
  - Two photos of certain objects taken from different angles are used as the input, filtered certain colors, and then overlaid over each other. 
  -  Uses multithreading to improve efficiency.
 
+## Files
+```
+3dgenerator/
+©À©¤©¤ Unit1.pas   - The main program.
+©À©¤©¤ Unit2.pas   - The processing code.
+©À©¤©¤ UnitT.pas   - Multi-threading code.
+©À©¤©¤ Unit1.dfm   - The main window.
+©¸©¤©¤ Unit2.dfm   - The processing window.
+
+```
+ 
+ 
 ## Future Plans
  - Cross-platform compatibility
  - 3D video processing
