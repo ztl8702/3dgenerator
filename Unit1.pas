@@ -130,7 +130,7 @@ begin
 end;
 
 procedure Tform1.pulsBitmap(lb,rb:Tbitmap);
- var i, j, r2,g1,b1, w, h:integer;
+ var i, j, r1,g2,b2, w, h:integer;
   BitmapCanvas:TBitmap;
 begin
   //ss
@@ -145,10 +145,10 @@ begin
       begin //ºÏ²¢Í¼Ïñ
         for j:=1 to h do
         begin
-          r2 := GetRValue(rb.Canvas.Pixels[i,j]);
-          g1 := GetGValue(lb.Canvas.Pixels[i,j]);
-          b1 := GetBValue(lb.Canvas.Pixels[i,j]);
-          BitmapCanvas.Canvas.Pixels[i,j]:=rgb(r2,g1,b1);
+          r1 := GetRValue(lb.Canvas.Pixels[i,j]);
+          g2 := GetGValue(rb.Canvas.Pixels[i,j]);
+          b2 := GetBValue(rb.Canvas.Pixels[i,j]);
+          BitmapCanvas.Canvas.Pixels[i,j]:=rgb(r1,g2,b2);
         end;
         form2.ProgressBar1.Position:=trunc((i/w)*100);
       end;

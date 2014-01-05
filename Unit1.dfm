@@ -67,7 +67,6 @@ object Form1: TForm1
     Height = 100
     Align = alBottom
     TabOrder = 2
-    ExplicitTop = 396
     object GroupBox1: TGroupBox
       Left = 1
       Top = 1
