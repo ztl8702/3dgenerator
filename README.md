@@ -1,4 +1,4 @@
-# A Convenient Stereo Photo Generator
+ï»¿# A Convenient Stereo Photo Generator
 This project is a 3D photo generator written in Delphi.
  - Creates 3D pictures which are viewable through red-cyan/red-green glasses.
  - Simplified User Interface: only one-click required.
@@ -12,11 +12,11 @@ This project is a 3D photo generator written in Delphi.
 ## Files
 ```
 3dgenerator/
-©À©¤©¤ Unit1.pas   - The main program.
-©À©¤©¤ Unit2.pas   - The processing code.
-©À©¤©¤ UnitT.pas   - Multi-threading code.
-©À©¤©¤ Unit1.dfm   - The main window.
-©¸©¤©¤ Unit2.dfm   - The processing window.
+â”œâ”€â”€ Unit1.pas   - The main program.
+â”œâ”€â”€ Unit2.pas   - The processing code.
+â”œâ”€â”€ UnitT.pas   - Multi-threading code.
+â”œâ”€â”€ Unit1.dfm   - The main window.
+â””â”€â”€ Unit2.dfm   - The processing window.
 
 ```
  
