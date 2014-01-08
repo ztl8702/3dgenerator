@@ -1,6 +1,5 @@
 ﻿# A Convenient Stereo Photo Generator
-![Helloworld](http://hec.org.cn/pi1/piwik.php?idsite=1&amp;rec=1)
-<img src="http://hec.org.cn/pi1/piwik.php?idsite=1&amp;rec=1" style="border:0" alt="" />
+![Helloworld](https://pi-radiumtry.rhcloud.com/piwik.php?idsite=1&rec=1)
 
 This project is a 3D photo generator written in Delphi.
  - Creates 3D pictures which are viewable through red-cyan/red-green glasses.
